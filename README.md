@@ -1,7 +1,7 @@
 # 🛒 Supermarket Sales Data Analysis (SQL Project)
 
 ## 📌 Project Overview
-Proyek ini bertujuan untuk menganalisis data transaksi mentah dari jaringan supermarket guna membantu CEO mengambil keputusan berbasis data (*data-driven decisions*) terkait performa cabang, profitabilitas produk, dan optimasi jadwal karyawan.
+This project aims to analyze raw transaction data from a supermarket chain to help the CEO make data-driven decisions regarding branch performance, product profitability, and employee schedule optimization.
 
 ## 🛠️ Tech Stack & Database Schema
 * **Database Management System:** MySQL
